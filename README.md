@@ -11,7 +11,6 @@ L’objectif est de montrer comment les données logistiques (commandes, stockag
 
 - **📸 Images utilisées dans le rapport**  
   - Captures de dashboards Power BI (Commandes, Stockage, Transport).  
-  - Illustrations annotées (filtres, KPI, graphiques interactifs).  
 
 - **💻 Extraits de code Python**  
   - Scripts d’ingestion et de transformation des données (CSV → PostgreSQL).  
